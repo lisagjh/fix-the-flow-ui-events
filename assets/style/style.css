@@ -81,7 +81,7 @@ a:nth-of-type(12) {
 /*  ! mijn code */
 
 a:nth-of-type(1) {
-  /* color: var(--highlight-primary); */
+  color: var(--secondary);
 }
 
 .negative {
