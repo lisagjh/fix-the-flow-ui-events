@@ -80,10 +80,6 @@ a:nth-of-type(12) {
 
 /*  ! mijn code */
 
-a:nth-of-type(1) {
-  color: var(--secondary);
-}
-
 .negative {
   color: var(--secondary);
   background-color: var(--highlight-primary);
