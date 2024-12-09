@@ -21,6 +21,7 @@ body {
 section {
   max-width: 90vw;
 }
+
 a {
   display: inline-block;
   margin: 0.2em;
@@ -32,6 +33,7 @@ a {
   font-weight: normal;
   text-decoration: none;
 }
+
 a:hover {
   color: var(--primary);
   border-color: var(--primary);
@@ -89,7 +91,7 @@ a:nth-of-type(12) {
   color: var(--secondary);
 }
 
-/* * jello */
+/* jello */
 
 a:nth-of-type(2) {
   background-color: var(--highlight-secondary);
@@ -131,7 +133,7 @@ a:nth-of-type(2) {
 	}
 }
 
-/* * pulse */
+/* pulse */
 
 a:nth-of-type(4) {
   background-color: var(--highlight-secondary);
@@ -157,4 +159,4 @@ a:nth-of-type(4) {
 	}
 }
 
-/* *  */
+/*  */
